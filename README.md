@@ -29,6 +29,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 [Data Analysis - Dr. Mike Pound](https://www.youtube.com/playlist?list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba)
 
+[Data Scientist: Analytics - codecademy](https://www.codecademy.com/career-journey/data-scientist-aly)
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
